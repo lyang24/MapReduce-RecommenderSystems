@@ -20,8 +20,8 @@ I preprocessed the original dataset in two steps:
 
 steps:
 
-*Divide data by user id
-*Build co-occurrence matrix
-*Normalize the co-occurrence matrix
-*Build rating matrix
-*Multiply co-occurrence matrix and rating matrix
+* Divide data by user id
+* Build co-occurrence matrix
+* Normalize the co-occurrence matrix
+* Build rating matrix
+* Multiply co-occurrence matrix and rating matrix
